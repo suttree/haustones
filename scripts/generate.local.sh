@@ -11,3 +11,7 @@ venv/bin/python3.12 melodies/fas.py
 venv/bin/python3.12 melodies/bey.py
 venv/bin/python3.12 melodies/cop.py
 venv/bin/python3.12 melodies/sun.py
+venv/bin/python3.12 melodies/lon.py
+venv/bin/python3.12 melodies/up.py
+venv/bin/python3.12 melodies/zof.py
+venv/bin/python3.12 melodies/xmi.py
