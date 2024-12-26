@@ -45,7 +45,7 @@ def triad(time):
   timeline.add(time + 0.062 + math.sin(increment), Hit(Note(notes[0]), duration))
   timeline.add(time + 0.083 + math.sin(increment), Hit(Note(notes[3]), duration))
   timeline.add(time + 0.084 + math.sin(increment), Hit(Note(notes[3]), duration))
-  timeline.add(time + 0.104 + math.sin(increment), Hit(Note(notes[5]), duration))
+  timeline.add(time + 0.104 + math.sin(increment), Hit(Note(notes[2]), duration))
       
 def strum(time, offset = 0.025):
   for j, note in enumerate(notes):
