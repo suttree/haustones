@@ -38,6 +38,9 @@ melodies=(
     "melodies/xmi.py"
     "melodies/eve.py"
     "melodies/ewe.py"
+    "melodies/repeatallafterfuzz.py"
+    "melodies/des.py"
+    "melodies/ber.py"
 )
 
 # Get the total number of melodies
