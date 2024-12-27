@@ -1,1 +1,1 @@
-amixer set 'Master' 4%
+amixer set 'Master' 75%
