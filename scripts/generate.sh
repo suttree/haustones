@@ -26,7 +26,6 @@ melodies=(
     "melodies/tre.py"
     "melodies/bel.py"
     "melodies/bel2.py"
-    "melodies/deets.py"
     "melodies/ren.py"
     "melodies/exh.py"
     "melodies/zof.py"
